@@ -1,0 +1,23 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Direct /r/* links to the Netlify redirect function
+[[redirects]]
+  from = "/r/*"
+  to = "/.netlify/functions/redirect"
+  status = 200
+  force = true
+
+# Route API requests to Netlify API function (when deployed serverless)
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api"
+  status = 200
+  force = false
+
+# SPA fallback for all frontend dashboard routes
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

@@ -1,0 +1,6 @@
+{
+  "name": "SmartLink Manager Pro",
+  "description": "Professional mobile-first SmartLink redirect management platform with genuine HTTP 302 forwarding, real-time redirect analytics, and bulk generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

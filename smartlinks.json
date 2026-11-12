@@ -1,0 +1,5124 @@
+{
+  "links": [
+    {
+      "id": "link_ast_1",
+      "name": "Social Media Viral Traffic (US/CA)",
+      "originalUrl": "https://www.highcpmgate.com/example-smartlink-1",
+      "slug": "viral-promo",
+      "subId": "fb_feed_tier1",
+      "description": "High-tier North America direct display and popunder smartlink for social shares.",
+      "thumbnailUrl": "",
+      "status": "active",
+      "createdAt": "2026-11-08T07:43:55.693Z",
+      "updatedAt": "2026-11-10T07:43:55.693Z",
+      "clickCount": 143,
+      "uniqueCount": 129
+    },
+    {
+      "id": "link_ast_2",
+      "name": "Telegram Channel Gaming Campaign",
+      "originalUrl": "https://www.highcpmgate.com/example-smartlink-2",
+      "slug": "gaming-zone",
+      "subId": "tg_gamers_hub",
+      "description": "Targeted gaming content smartlink for Telegram channel broadcast messages.",
+      "thumbnailUrl": "",
+      "status": "active",
+      "createdAt": "2026-11-10T07:43:55.693Z",
+      "updatedAt": "2026-11-11T07:43:55.693Z",
+      "clickCount": 89,
+      "uniqueCount": 76
+    },
+    {
+      "id": "link_ast_3",
+      "name": "Tech Blog Footer Banner",
+      "originalUrl": "https://www.highcpmgate.com/example-smartlink-3",
+      "slug": "tech-gadgets",
+      "subId": "web_footer_cta",
+      "description": "Organic reader referral link placed below tutorial articles.",
+      "thumbnailUrl": "",
+      "status": "paused",
+      "createdAt": "2026-11-05T07:43:55.693Z",
+      "updatedAt": "2026-11-12T07:43:55.693Z",
+      "clickCount": 34,
+      "uniqueCount": 31
+    }
+  ],
+  "clicks": [
+    {
+      "id": "clk_1794469448946_3wqv",
+      "linkId": "lnk_1794469445588_1r1w2",
+      "linkSlug": "mobile-test",
+      "linkName": "Android Mobile Test Link",
+      "subId": "mobile_user",
+      "timestamp": "2026-11-12T07:44:08.946Z",
+      "userAgent": "curl/7.88.1",
+      "deviceType": "desktop",
+      "browser": "Unknown",
+      "os": "Unknown OS",
+      "ipHash": "426d2fcd4b101f57",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "affiliate": "top"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/test-android-offer?subid=mobile_user&affiliate=top"
+    },
+    {
+      "id": "clk_1794469438422_yblp",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "test_affiliate",
+      "timestamp": "2026-11-12T07:43:58.422Z",
+      "userAgent": "curl/7.88.1",
+      "deviceType": "desktop",
+      "browser": "Unknown",
+      "os": "Unknown OS",
+      "ipHash": "426d2fcd4b101f57",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "test_affiliate",
+        "custom": "123"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1?subid=test_affiliate&custom=123"
+    },
+    {
+      "id": "clk_link_ast_2_78",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-12T07:19:55.378Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Windows 11",
+      "ipHash": "33fdf8ce1ab44ffb",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_11",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-12T07:11:57.959Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "0e9e6ad2e8686c95",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_89",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-12T06:32:20.451Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome",
+      "os": "Windows 11",
+      "ipHash": "62f1edffd561bc56",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_76",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-12T06:04:29.055Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "f889d8d104049fb3",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_42",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-12T05:35:09.232Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "b00bcd00fd6898ca",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_73",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-12T05:35:00.353Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "5077abc49d9c4f55",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_50",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-12T04:09:09.056Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "f7b545a927b947d3",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_31",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-12T03:13:03.624Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "5fe55d34d811ec59",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_135",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-12T02:21:53.575Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Android 13",
+      "ipHash": "dfe2862f3acf0452",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_9",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-12T01:41:24.548Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "7301e6dc5ff34d6c",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_4",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-12T01:41:17.722Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "9ee627f956c62be3",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_4",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-12T01:28:31.449Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "9ee627f956c62be3",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_71",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-12T00:17:57.027Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "62dcb181c077beff",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_21",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-12T00:04:58.258Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "c6425039ba2e60f9",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_103",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T22:34:00.346Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "7809408265219cd7",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_104",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T22:19:29.299Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Windows 11",
+      "ipHash": "2f396c83195bcc59",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_101",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T22:08:21.638Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "7f0f5d533c4db29e",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_25",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T20:44:51.706Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "92d1bc2c1505829b",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_1",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T20:25:51.598Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "f05b93b446493b5b",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_31",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T20:08:25.422Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "6bcba508d267d708",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_26",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T20:01:43.835Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "f06cbac183835974",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_69",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T19:39:50.036Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "macOS 14",
+      "ipHash": "eb76b9562ea3d184",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_47",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T19:10:59.142Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "4315009e8012d72a",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_23",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T18:50:06.883Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "e64310bd42d25a7e",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_129",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T18:44:37.467Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Windows 11",
+      "ipHash": "f05b93b446493b5b",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_86",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T18:37:30.981Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "257ee9d7d1bfdb42",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_84",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T17:47:34.995Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "a64536f1fbc6f343",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_75",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T17:47:21.668Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Android 13",
+      "ipHash": "2196a7253ff017f8",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_99",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T17:46:00.347Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "747a8c313d69e841",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_84",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T17:34:13.769Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Android 13",
+      "ipHash": "48570d3f424df62b",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_65",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T16:47:38.995Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "f5dd5e2bb47c52ff",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_57",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T16:40:53.202Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome",
+      "os": "Windows 11",
+      "ipHash": "e8902da655122688",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_119",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T16:33:53.301Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "600cf3df60dd4cce",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_38",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T16:22:07.792Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Windows 11",
+      "ipHash": "b93f0ac317bcf7ab",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_53",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T16:02:42.703Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "74ea2bb5846e0f0a",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_29",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T15:36:50.640Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "ae44bf876b355168",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_61",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T15:33:08.302Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "354b523e6a0ed3f1",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_37",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T15:20:20.607Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "42532930fb1ef4af",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_29",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T15:06:22.345Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "ae44bf876b355168",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_128",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T14:41:51.859Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Android 14",
+      "ipHash": "6bcba508d267d708",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_11",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T14:27:27.984Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Android 14",
+      "ipHash": "0e9e6ad2e8686c95",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_109",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T14:25:57.736Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "macOS 14",
+      "ipHash": "3454eed437562039",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_5",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T14:18:57.403Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "572288d75bc9f366",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_95",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T14:15:44.153Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "6b1a8232053309cb",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_77",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T14:00:37.256Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Android 14",
+      "ipHash": "71d16d77ffa1f00c",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_6",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T13:54:04.444Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "a57f6ecd57ce43e8",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_0",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T12:40:49.284Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "6bcba508d267d708",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_61",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T12:38:41.865Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "354b523e6a0ed3f1",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_17",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T12:14:12.493Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "5aeb0451c858a849",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_3_18",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T12:10:39.374Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "749c49050a71b0e3",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_35",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T11:44:01.416Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "72f5b737a18883a9",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_90",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T11:24:52.923Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Android 13",
+      "ipHash": "d5f3689c7844bb96",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_12",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T11:19:11.867Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "436047309e549188",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_15",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T11:07:28.969Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Android 14",
+      "ipHash": "1e968ebad79f7d00",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_67",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T10:52:17.626Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "50052c6d5cdd2240",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_23",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T10:50:34.327Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "e64310bd42d25a7e",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_7",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T10:29:01.982Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "dfe2862f3acf0452",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_87",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T10:07:59.495Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "0e9e6ad2e8686c95",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_74",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T09:40:36.269Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "a624bd69bd88272c",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_39",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T08:55:48.267Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "b6e7850b44c07ece",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_138",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T08:47:58.878Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "257ee9d7d1bfdb42",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_81",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T08:38:40.885Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome",
+      "os": "macOS 14",
+      "ipHash": "572288d75bc9f366",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_46",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T08:33:09.866Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "f11a4d10b10f0041",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_20",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T08:18:57.274Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "33744485d4a518d0",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_10",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T08:11:32.280Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "257ee9d7d1bfdb42",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_62",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T08:04:18.156Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "4ac9d68f30badc5d",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_32",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T07:47:29.738Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "59d5da829c3e973c",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_100",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T07:25:01.297Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "fa041203b45fd3cb",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_14",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T07:24:06.565Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "96914f03892b0fa2",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_64",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T07:17:15.507Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "a5e19ec5f2647392",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_94",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T07:15:39.554Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Android 14",
+      "ipHash": "90cc6a4ef1d40c77",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_64",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T07:07:28.162Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "a5e19ec5f2647392",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_132",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T06:56:00.545Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "9ee627f956c62be3",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_126",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T06:52:57.927Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "a50f8183bd5b9a4f",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_59",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T06:30:53.378Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "macOS 14",
+      "ipHash": "eb74b965706b6822",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_88",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T05:44:39.823Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "e7e378e25ede5e03",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_17",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T04:57:27.252Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "5aeb0451c858a849",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_107",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T04:52:20.691Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "9786eb71750af1ba",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_43",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T04:48:36.342Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "42a83ce91ae9517a",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_137",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T03:55:00.564Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "7301e6dc5ff34d6c",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_78",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T03:48:31.128Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "8cce7e0042373b97",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_27",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T03:26:17.210Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "macOS 14",
+      "ipHash": "9d534dca51a641df",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_27",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T02:51:13.228Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "9d534dca51a641df",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_83",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T02:10:55.131Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Windows 11",
+      "ipHash": "161e4caf30168679",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_36",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T02:09:46.495Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "59efe2b2360b4a98",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_41",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T02:04:25.352Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "ef2033dbe8e3660e",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_13",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T01:27:01.167Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "1088c09610e63903",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_134",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T00:50:45.856Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Windows 11",
+      "ipHash": "a57f6ecd57ce43e8",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_42",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-11T00:30:19.942Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "b00bcd00fd6898ca",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_32",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-11T00:18:11.888Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Windows 11",
+      "ipHash": "f05b93b446493b5b",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_58",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-11T00:14:47.626Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "84eb5bbcf2ca0512",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_33",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-10T23:45:56.826Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "33fdf8ce1ab44ffb",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_22",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T23:36:13.227Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "0d0f5635d0bd45c5",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_11",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-10T23:29:37.860Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "0e9e6ad2e8686c95",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_127",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T23:14:34.106Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "a4e506eea8193958",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_28",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T23:06:11.404Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "c3e82947af5ad0bc",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_26",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-10T23:05:19.008Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Windows 11",
+      "ipHash": "f06cbac183835974",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_49",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T22:46:59.879Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "7766a4692fb1cd74",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_133",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T21:37:47.595Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "572288d75bc9f366",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_69",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T21:31:31.042Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "eb76b9562ea3d184",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_4",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T20:54:48.348Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "9ee627f956c62be3",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_60",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T20:39:10.928Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "58e5727f25540acb",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_120",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T20:12:38.938Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "4bd81ce247c8998d",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_37",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T19:47:20.215Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "42532930fb1ef4af",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_63",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T19:27:17.675Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "03f0c1007b9ed46a",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_97",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T19:06:20.630Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Windows 11",
+      "ipHash": "50c36c49ed94ecd7",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_54",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T18:12:39.455Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "d6b8a5511b8aacfd",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_82",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T17:36:43.300Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "a57f6ecd57ce43e8",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_82",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T16:17:19.185Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "e7cea88f9f7f2a96",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_116",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T16:06:14.951Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "e4e2b2b2dbfbdbe5",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_32",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T15:55:59.747Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "59d5da829c3e973c",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_34",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T14:57:28.086Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "Android 13",
+      "ipHash": "b8df6afb64bd582d",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_30",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T14:50:40.308Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "54e04537a4c1ae3a",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_55",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T14:41:19.694Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "2fda6c4cea38e96c",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_115",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T13:55:28.475Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "macOS 14",
+      "ipHash": "e8a610fcabe12574",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_12",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T13:51:00.723Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "436047309e549188",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_54",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T13:45:12.150Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "d6b8a5511b8aacfd",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_62",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T13:45:11.961Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "Windows 11",
+      "ipHash": "4ac9d68f30badc5d",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_79",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T13:06:28.170Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Windows 11",
+      "ipHash": "df10985aa03a1c7c",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_68",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T13:01:41.111Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "macOS 14",
+      "ipHash": "b3e021491218b4fd",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_46",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T12:25:01.115Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "f11a4d10b10f0041",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_121",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T12:11:44.298Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "ae938b570b4d18ff",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_112",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T12:10:59.930Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "d0067f02ce12eff8",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_7",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T12:10:49.633Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "dfe2862f3acf0452",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_16",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T12:02:03.856Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "4734752341d5c8a0",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_38",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T11:48:15.801Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "macOS 14",
+      "ipHash": "b93f0ac317bcf7ab",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_8",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-10T11:45:22.997Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "a64536f1fbc6f343",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_76",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T11:41:15.016Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "6bcba508d267d708",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_36",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T11:18:55.174Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "59efe2b2360b4a98",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_130",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T11:15:55.034Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "33fdf8ce1ab44ffb",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_1",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T10:58:48.412Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "f05b93b446493b5b",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_113",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T10:51:13.289Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "32b91e2cb2b9535e",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_77",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T10:27:51.261Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "f05b93b446493b5b",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_98",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T10:09:03.014Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "bfac0c2915bb79f1",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_7",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-10T09:17:59.247Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "dfe2862f3acf0452",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_45",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T09:07:13.909Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "cfb2258b00cb46a4",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_0",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T09:02:20.014Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "6bcba508d267d708",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_28",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-10T08:24:49.968Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "c3e82947af5ad0bc",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_3_15",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-10T08:16:48.744Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "1e968ebad79f7d00",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_102",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T08:10:57.447Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "8d46cc5e02887f17",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_48",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T07:33:39.716Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "d5685500bcbb0353",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_40",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T07:28:24.328Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "9f9f47f806c8e910",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_24",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T06:34:38.311Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "846dd068c8a4fe04",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_131",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T06:33:24.722Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "df10985aa03a1c7c",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_65",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T06:30:51.879Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "f5dd5e2bb47c52ff",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_0",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T05:36:25.416Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "6bcba508d267d708",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_33",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T05:24:16.256Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Android 14",
+      "ipHash": "a31ef5ca9b4595d7",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_29",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T04:00:29.607Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "ae44bf876b355168",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_44",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T03:53:26.045Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "8d7a94e9751d3dd3",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_19",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T02:14:13.462Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "63d0c00d0c8cccbc",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_85",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T02:00:39.236Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "7301e6dc5ff34d6c",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_19",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-10T01:45:00.982Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "63d0c00d0c8cccbc",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_83",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T01:29:52.302Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "dfe2862f3acf0452",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_122",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T01:12:34.422Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "d746593c8dfcc61d",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_9",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T01:07:21.843Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "7301e6dc5ff34d6c",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_105",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T00:52:19.765Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "de579ab834e93e5e",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_56",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-10T00:48:24.844Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "2fd8955cfb647813",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_24",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-10T00:09:32.672Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "846dd068c8a4fe04",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_18",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T23:56:24.280Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "Android 13",
+      "ipHash": "749c49050a71b0e3",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_108",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T23:34:29.848Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "3e87c4961ef4a9b7",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_53",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T23:20:42.282Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "74ea2bb5846e0f0a",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_20",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T23:07:05.611Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "33744485d4a518d0",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_139",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T22:57:37.755Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "0e9e6ad2e8686c95",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_106",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T22:55:32.757Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "9c4ba34ce8ef0891",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_51",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T22:22:53.279Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "7d77790a02a8bf69",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_60",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T21:59:53.920Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "58e5727f25540acb",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_123",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T20:43:17.097Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Windows 11",
+      "ipHash": "0e82c2d73756a550",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_117",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T20:39:47.944Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "8da2f298fb7109df",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_79",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T20:21:27.105Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "d8c244f077dcfdd6",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_2",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T20:18:46.193Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "33fdf8ce1ab44ffb",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_25",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T20:10:25.129Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "92d1bc2c1505829b",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_14",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T19:48:00.852Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "96914f03892b0fa2",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_118",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T18:56:04.524Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "670d53bdf762c681",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_10",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T18:54:28.515Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "macOS 14",
+      "ipHash": "257ee9d7d1bfdb42",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_13",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T16:58:03.509Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "1088c09610e63903",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_1",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T16:57:10.998Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "f05b93b446493b5b",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_91",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T16:41:07.476Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "30ab0c090b999d25",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_48",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T15:55:48.258Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "macOS 14",
+      "ipHash": "d5685500bcbb0353",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_26",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T15:24:21.071Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "f06cbac183835974",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_57",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T15:19:10.399Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome",
+      "os": "macOS 14",
+      "ipHash": "e8902da655122688",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_14",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T14:57:39.885Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "96914f03892b0fa2",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_41",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T14:37:37.393Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "ef2033dbe8e3660e",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_40",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T14:26:39.935Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "9f9f47f806c8e910",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_124",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T13:57:43.937Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "8c324a047882dace",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_6",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T13:04:16.386Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "a57f6ecd57ce43e8",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_80",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T12:47:12.701Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "7e84b04fc8c1b235",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_96",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T12:30:49.531Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "b46cbc8bfaa76ecd",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_3",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T12:28:56.802Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "df10985aa03a1c7c",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_22",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T12:15:42.524Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "0d0f5635d0bd45c5",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_50",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T12:04:31.463Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Windows 11",
+      "ipHash": "f7b545a927b947d3",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_59",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T11:47:23.311Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "eb74b965706b6822",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_3",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T11:12:07.848Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "df10985aa03a1c7c",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_30",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T11:09:09.910Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "54e04537a4c1ae3a",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_10",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T10:41:22.624Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "257ee9d7d1bfdb42",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_21",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T10:30:24.215Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "c6425039ba2e60f9",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_44",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T10:22:08.790Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "8d7a94e9751d3dd3",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_81",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T10:17:05.395Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "macOS 14",
+      "ipHash": "6bfa4692a25c6b3e",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_110",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T10:05:46.173Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "ca7658d119d79d63",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_2",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T09:29:04.281Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "33fdf8ce1ab44ffb",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_33",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T08:49:14.372Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "a31ef5ca9b4595d7",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_74",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T08:29:29.871Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "a624bd69bd88272c",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_52",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T08:10:50.079Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 13",
+      "ipHash": "1d8526a10a8aadfc",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_66",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T07:26:52.674Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "456d7dbcd4b34a7b",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_22",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T07:23:18.985Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "0d0f5635d0bd45c5",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_52",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T06:36:07.707Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "1d8526a10a8aadfc",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_24",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T05:12:02.318Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "846dd068c8a4fe04",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_58",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T04:15:58.956Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "macOS 14",
+      "ipHash": "84eb5bbcf2ca0512",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_25",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T04:05:41.094Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "92d1bc2c1505829b",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_17",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T03:53:25.791Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "5aeb0451c858a849",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_5",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T03:47:47.276Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "572288d75bc9f366",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_19",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T03:28:01.116Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "63d0c00d0c8cccbc",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_70",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T02:44:37.890Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "e909729122d90b48",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_30",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-09T01:41:17.871Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "54e04537a4c1ae3a",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_63",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T01:39:56.358Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "03f0c1007b9ed46a",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_73",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T01:32:03.511Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "5077abc49d9c4f55",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_47",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T01:04:57.486Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Safari Mobile",
+      "os": "Windows 11",
+      "ipHash": "4315009e8012d72a",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_72",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-09T00:37:32.604Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "8bba16325f7f4788",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_8",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-09T00:31:54.191Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "a64536f1fbc6f343",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_13",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-08T23:42:06.969Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Windows 11",
+      "ipHash": "1088c09610e63903",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_136",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T22:36:47.028Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "iOS 17.5",
+      "ipHash": "a64536f1fbc6f343",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_85",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T22:35:11.162Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Android 13",
+      "ipHash": "855b55e5d98910e9",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_45",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T21:51:21.359Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Windows 11",
+      "ipHash": "cfb2258b00cb46a4",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_9",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T21:16:13.207Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "macOS 14",
+      "ipHash": "7301e6dc5ff34d6c",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_15",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T20:54:20.933Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "1e968ebad79f7d00",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_92",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T20:47:47.616Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "9efc0dc69e27f9a3",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_39",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T20:23:24.516Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "b6e7850b44c07ece",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_27",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-08T20:18:18.109Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Windows 11",
+      "ipHash": "9d534dca51a641df",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_8",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T20:12:24.688Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "a64536f1fbc6f343",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_140",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T20:02:02.610Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "436047309e549188",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_114",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T19:19:07.716Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Android 13",
+      "ipHash": "8fd0a73892a7a1ea",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_35",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T18:47:41.224Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "72f5b737a18883a9",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_12",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-08T18:46:28.175Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "Android 13",
+      "ipHash": "436047309e549188",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_31",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T18:28:35.900Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "5fe55d34d811ec59",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_72",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T18:19:21.446Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "Android 14",
+      "ipHash": "8bba16325f7f4788",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_55",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T18:11:58.433Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "2fda6c4cea38e96c",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_18",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T17:59:19.142Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "749c49050a71b0e3",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_16",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T17:34:55.678Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "4734752341d5c8a0",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_6",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T17:25:32.320Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "a57f6ecd57ce43e8",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_21",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T17:03:14.551Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "c6425039ba2e60f9",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_34",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T17:00:52.466Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "Android 14",
+      "ipHash": "b8df6afb64bd582d",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_86",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T17:00:34.929Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 13",
+      "ipHash": "dc1470a08d74b7c6",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_93",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T15:45:12.287Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "8369e4a801f83548",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_23",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T15:33:08.846Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "e64310bd42d25a7e",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_28",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T15:21:18.244Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "c3e82947af5ad0bc",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_67",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T15:17:54.986Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Edge",
+      "os": "macOS 14",
+      "ipHash": "50052c6d5cdd2240",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_20",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T15:01:48.603Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Android 14",
+      "ipHash": "33744485d4a518d0",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_68",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T14:04:55.679Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "b3e021491218b4fd",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_75",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T13:53:21.811Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Firefox",
+      "os": "macOS 14",
+      "ipHash": "2196a7253ff017f8",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_2",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T13:38:33.854Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "33fdf8ce1ab44ffb",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_49",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T13:21:09.682Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Windows 11",
+      "ipHash": "7766a4692fb1cd74",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_3_16",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-08T13:16:50.186Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "4734752341d5c8a0",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_1_87",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T11:22:56.172Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Android 13",
+      "ipHash": "e29fb2c9b80631ae",
+      "referrer": "https://m.facebook.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_1_43",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T11:03:07.907Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "Android 14",
+      "ipHash": "42a83ce91ae9517a",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_3_3",
+      "linkId": "link_ast_3",
+      "linkSlug": "tech-gadgets",
+      "linkName": "Tech Blog Footer Banner",
+      "subId": "web_footer_cta",
+      "timestamp": "2026-11-08T11:00:39.243Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Edge",
+      "os": "iOS 17.5",
+      "ipHash": "df10985aa03a1c7c",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "web_footer_cta",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-3"
+    },
+    {
+      "id": "clk_link_ast_2_88",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T10:56:05.709Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "436047309e549188",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_5",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T10:32:06.712Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-tablet)",
+      "deviceType": "tablet",
+      "browser": "Chrome",
+      "os": "Windows 11",
+      "ipHash": "572288d75bc9f366",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_141",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T10:28:21.543Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Android 14",
+      "ipHash": "1088c09610e63903",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_51",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T09:41:53.951Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "macOS 14",
+      "ipHash": "7d77790a02a8bf69",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_71",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T09:24:10.521Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Safari Mobile",
+      "os": "Windows 11",
+      "ipHash": "62dcb181c077beff",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_111",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T09:02:50.967Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-desktop)",
+      "deviceType": "desktop",
+      "browser": "Chrome Mobile",
+      "os": "Windows 11",
+      "ipHash": "788eed6f0366555a",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_70",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T08:57:20.481Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Firefox",
+      "os": "Android 14",
+      "ipHash": "e909729122d90b48",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_125",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T08:12:00.162Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Safari Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "11d3dc51bf4800b5",
+      "referrer": "Direct / None",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    },
+    {
+      "id": "clk_link_ast_2_56",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T08:11:22.394Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "Windows 11",
+      "ipHash": "2fd8955cfb647813",
+      "referrer": "https://t.me/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_2_80",
+      "linkId": "link_ast_2",
+      "linkSlug": "gaming-zone",
+      "linkName": "Telegram Channel Gaming Campaign",
+      "subId": "tg_gamers_hub",
+      "timestamp": "2026-11-08T08:09:36.541Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome Mobile",
+      "os": "iOS 17.5",
+      "ipHash": "9ee627f956c62be3",
+      "referrer": "https://twitter.com/",
+      "queryParams": {
+        "subid": "tg_gamers_hub",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-2"
+    },
+    {
+      "id": "clk_link_ast_1_66",
+      "linkId": "link_ast_1",
+      "linkSlug": "viral-promo",
+      "linkName": "Social Media Viral Traffic (US/CA)",
+      "subId": "fb_feed_tier1",
+      "timestamp": "2026-11-08T07:52:14.344Z",
+      "userAgent": "Mozilla/5.0 (SmartLink-Agent-mobile)",
+      "deviceType": "mobile",
+      "browser": "Chrome",
+      "os": "iOS 17.5",
+      "ipHash": "456d7dbcd4b34a7b",
+      "referrer": "https://www.reddit.com/",
+      "queryParams": {
+        "subid": "fb_feed_tier1",
+        "ref": "test"
+      },
+      "destinationUrl": "https://www.highcpmgate.com/example-smartlink-1"
+    }
+  ],
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2026-11-12T07:44:15.073Z"
+  }
+}
