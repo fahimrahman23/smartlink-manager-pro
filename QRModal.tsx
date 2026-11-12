@@ -1,4 +1,4 @@
-import { copy, ghost } from './util';
+import { copy, ghost } from './linkutil';
 export function QRModal({ url, title, isOpen, onClose }: { url: string | null; title: string | null; isOpen: boolean; onClose: () => void }) {
   if (!isOpen || !url) return null;
   return (

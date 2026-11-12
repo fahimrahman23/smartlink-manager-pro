@@ -1,22 +1,20 @@
 [build]
-  command = "npm run build"
+  command = "node setup-functions.mjs && npm run build"
   publish = "dist"
 
-# Direct /r/* links to the Netlify redirect function
+[functions]
+  directory = "netlify/functions"
+
 [[redirects]]
   from = "/r/*"
   to = "/.netlify/functions/redirect"
   status = 200
-  force = true
 
-# Route API requests to Netlify API function (when deployed serverless)
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/api"
   status = 200
-  force = false
 
-# SPA fallback for all frontend dashboard routes
 [[redirects]]
   from = "/*"
   to = "/index.html"

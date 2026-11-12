@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { SmartLink } from '../types';
-import { api, shortUrl, slugify, rand, copy, inp, btn, card, ghost } from './util';
+import { SmartLink } from './types';
+import { api, shortUrl, slugify, rand, copy, inp, btn, card, ghost } from './linkutil';
 export function GeneratorView({ onLinkCreated, onEditLink, onDeleteLink, onOpenQR }: { onLinkCreated: (l: SmartLink) => void; onEditLink: (l: SmartLink) => void; onDeleteLink: (id: string) => void; onOpenQR: (url: string, title: string) => void }) {
   const [f, setF] = useState({ name: '', originalUrl: '', slug: '', subId: '', description: '', thumbnailUrl: '' });
   const [busy, setBusy] = useState(false);

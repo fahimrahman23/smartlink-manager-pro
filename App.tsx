@@ -1,16 +1,16 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { SmartLink, OverviewStats, TabType } from './types';
-import { Navbar } from './components/Navbar';
-import { BottomNav } from './components/BottomNav';
-import { DashboardView } from './components/DashboardView';
-import { LinksListView } from './components/LinksListView';
-import { GeneratorView } from './components/GeneratorView';
-import { BulkGeneratorView } from './components/BulkGeneratorView';
-import { BackupSettingsView } from './components/BackupSettingsView';
-import { GuideView } from './components/GuideView';
-import { EditLinkModal } from './components/EditLinkModal';
-import { AnalyticsModal } from './components/AnalyticsModal';
-import { QRModal } from './components/QRModal';
+import { Navbar } from './Navbar';
+import { BottomNav } from './BottomNav';
+import { DashboardView } from './DashboardView';
+import { LinksListView } from './LinksListView';
+import { GeneratorView } from './GeneratorView';
+import { BulkGeneratorView } from './BulkGeneratorView';
+import { BackupSettingsView } from './BackupSettingsView';
+import { GuideView } from './GuideView';
+import { EditLinkModal } from './EditLinkModal';
+import { AnalyticsModal } from './AnalyticsModal';
+import { QRModal } from './QRModal';
 import { WifiOff, RefreshCw } from 'lucide-react';
 
 export default function App() {

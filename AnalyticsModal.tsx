@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import { SmartLink, ClickRecord } from '../types';
-import { api, ghost } from './util';
+import { SmartLink, ClickRecord } from './types';
+import { api, ghost } from './linkutil';
 export function AnalyticsModal({ link, isOpen, onClose }: { link: SmartLink | null; isOpen: boolean; onClose: () => void }) {
   const [rows, setRows] = useState<ClickRecord[] | null>(null);
   useEffect(() => { if (isOpen && link) { setRows(null); api(`/links/${link.id}/clicks`).then((r) => setRows(r.success ? r.data : [])); } }, [isOpen, link]);

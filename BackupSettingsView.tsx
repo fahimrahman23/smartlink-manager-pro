@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { api, btn, card, ghost } from './util';
+import { api, btn, card, ghost } from './linkutil';
 export function BackupSettingsView({ onDataRestored }: { onDataRestored: () => void }) {
   const [msg, setMsg] = useState('');
   async function exportAll() {

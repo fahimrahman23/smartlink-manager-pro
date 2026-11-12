@@ -1,4 +1,4 @@
-import { card } from './util';
+import { card } from './linkutil';
 const steps = [
   ['Create a link', 'Go to Create, paste your Adsterra Smartlink, and give it a name. The app gives you a short link.'],
   ['Add a Sub ID', 'A Sub ID such as fb_post1 is added to your Smartlink. Use it to see in Adsterra which post sent the click.'],

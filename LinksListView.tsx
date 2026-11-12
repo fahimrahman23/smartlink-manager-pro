@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import { Copy, QrCode, BarChart3, Pencil, Pause, Play, Trash2 } from 'lucide-react';
-import { SmartLink } from '../types';
-import { shortUrl, copy, inp, card, ghost, btn } from './util';
+import { Copy, QrCode, Activity, Pencil, Pause, Play, Trash2 } from 'lucide-react';
+import { SmartLink } from './types';
+import { shortUrl, copy, inp, card, ghost, btn } from './linkutil';
 export function LinksListView({ links, onToggleStatus, onEditLink, onDeleteLink, onSelectLink, onOpenQR, onCreateNew }: { links: SmartLink[]; onToggleStatus: (id: string, s: 'active' | 'paused') => void; onEditLink: (l: SmartLink) => void; onDeleteLink: (id: string) => void; onSelectLink: (l: SmartLink) => void; onOpenQR: (url: string, title: string) => void; onCreateNew: () => void }) {
   const [q, setQ] = useState('');
   const [copied, setCopied] = useState('');
@@ -19,7 +19,7 @@ export function LinksListView({ links, onToggleStatus, onEditLink, onDeleteLink,
           <div className="flex flex-wrap gap-2">
             <button className={ghost} onClick={() => { copy(shortUrl(l.slug)); setCopied(l.id); setTimeout(() => setCopied(''), 1500); }}><Copy className="w-3.5 h-3.5 inline mr-1" />{copied === l.id ? 'Copied' : 'Copy'}</button>
             <button className={ghost} onClick={() => onOpenQR(shortUrl(l.slug), l.name)}><QrCode className="w-3.5 h-3.5 inline mr-1" />QR</button>
-            <button className={ghost} onClick={() => onSelectLink(l)}><BarChart3 className="w-3.5 h-3.5 inline mr-1" />Stats</button>
+            <button className={ghost} onClick={() => onSelectLink(l)}><Activity className="w-3.5 h-3.5 inline mr-1" />Stats</button>
             <button className={ghost} onClick={() => onEditLink(l)}><Pencil className="w-3.5 h-3.5 inline mr-1" />Edit</button>
             <button className={ghost} onClick={() => onToggleStatus(l.id, l.status)}>{l.status === 'active' ? <><Pause className="w-3.5 h-3.5 inline mr-1" />Pause</> : <><Play className="w-3.5 h-3.5 inline mr-1" />Resume</>}</button>
             <button className={ghost} onClick={() => confirm(`Delete "${l.name}"?`) && onDeleteLink(l.id)}><Trash2 className="w-3.5 h-3.5 inline mr-1" />Delete</button>

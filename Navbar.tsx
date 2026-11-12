@@ -1,5 +1,5 @@
 import { Link2, Plus } from 'lucide-react';
-import { TabType } from '../types';
+import { TabType } from './types';
 export const TABS: [TabType, string][] = [['dashboard', 'Dashboard'], ['links', 'Links'], ['create', 'Create'], ['bulk', 'Bulk'], ['backup', 'Backup'], ['guide', 'Guide']];
 export function Navbar({ currentTab, onSelectTab, onOpenCreateModal, totalLinksCount }: { currentTab: TabType; onSelectTab: (t: TabType) => void; onOpenCreateModal: () => void; totalLinksCount: number }) {
   return (

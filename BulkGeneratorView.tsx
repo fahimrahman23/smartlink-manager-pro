@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { SmartLink } from '../types';
-import { api, slugify, rand, inp, btn, card } from './util';
+import { SmartLink } from './types';
+import { api, slugify, rand, inp, btn, card } from './linkutil';
 export function BulkGeneratorView({ onBulkCreated }: { onBulkCreated: (l: SmartLink[]) => void }) {
   const [text, setText] = useState('');
   const [msg, setMsg] = useState('');

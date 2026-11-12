@@ -1,6 +1,6 @@
 import { MousePointerClick, Link2, Users, Sun } from 'lucide-react';
-import { SmartLink, OverviewStats, TabType } from '../types';
-import { card, btn } from './util';
+import { SmartLink, OverviewStats, TabType } from './types';
+import { card, btn } from './linkutil';
 export function DashboardView({ stats, links, onSelectTab, onOpenCreate, onSelectLink }: { stats: OverviewStats | null; links: SmartLink[]; onSelectTab: (t: TabType) => void; onOpenCreate: () => void; onSelectLink: (l: SmartLink) => void }) {
   const cards: [string, number, any][] = [['Total clicks', stats?.totalClicks ?? 0, MousePointerClick], ['Unique visitors', stats?.uniqueVisitors ?? 0, Users], ['Clicks today', stats?.todayClicks ?? 0, Sun], ['Active links', stats?.activeLinks ?? 0, Link2]];
   const days = stats?.last7Days ?? [];

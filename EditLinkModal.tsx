@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import { SmartLink } from '../types';
-import { api, inp, btn, ghost } from './util';
+import { SmartLink } from './types';
+import { api, inp, btn, ghost } from './linkutil';
 export function EditLinkModal({ link, isOpen, onClose, onSave }: { link: SmartLink | null; isOpen: boolean; onClose: () => void; onSave: (l: SmartLink) => void }) {
   const [f, setF] = useState({ name: '', originalUrl: '', slug: '', subId: '', description: '', thumbnailUrl: '' });
   const [err, setErr] = useState('');

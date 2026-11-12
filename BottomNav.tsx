@@ -1,6 +1,6 @@
-import { LayoutDashboard, List, PlusCircle, Layers, Archive, BookOpen } from 'lucide-react';
-import { TabType } from '../types';
-const items: [TabType, string, any][] = [['dashboard', 'Home', LayoutDashboard], ['links', 'Links', List], ['create', 'Create', PlusCircle], ['bulk', 'Bulk', Layers], ['backup', 'Backup', Archive], ['guide', 'Guide', BookOpen]];
+import { LayoutDashboard, List, Plus, Layers, Archive, BookOpen } from 'lucide-react';
+import { TabType } from './types';
+const items: [TabType, string, any][] = [['dashboard', 'Home', LayoutDashboard], ['links', 'Links', List], ['create', 'Create', Plus], ['bulk', 'Bulk', Layers], ['backup', 'Backup', Archive], ['guide', 'Guide', BookOpen]];
 export function BottomNav({ currentTab, onSelectTab }: { currentTab: TabType; onSelectTab: (t: TabType) => void }) {
   return (
     <>
